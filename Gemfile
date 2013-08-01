@@ -2,7 +2,6 @@ source "https://rubygems.org"
 gemspec
 
 gem 'rake'
-gem 'fjafklaflkjadflkadflkjadflkjdfaljkadfkljfadkjl'
 
 rails = ENV['RAILS'] || '4-0-stable'
 
